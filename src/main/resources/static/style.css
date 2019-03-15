@@ -8,12 +8,12 @@ background:#d7e0e9;
 padding:10px 0px;
 }
 section {
-width: 79%;
+width: 85%;
 float: left;
 overflow: auto;
-padding-bottom: 60px;
-padding-top:30px;
-color: black;
+padding-bottom: 62px;
+padding-top:35px;
+color: green;
 }
 footer {
 position: relative;
