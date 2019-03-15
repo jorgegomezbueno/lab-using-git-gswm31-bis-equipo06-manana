@@ -1,6 +1,6 @@
 html,body {
 height:100%;
-background:white;
+background-color:#FA8072;
 }
 header {
 display:block;
@@ -8,12 +8,12 @@ background:#d7e0f9;
 padding:12px 0px;
 }
 section {
-width: 79%;
+width: 85%;
 float: left;
 overflow: auto;
-padding-bottom: 60px;
-padding-top:30px;
-color: black;
+padding-bottom: 62px;
+padding-top:35px;
+color: green;
 }
 footer {
 position: relative;
